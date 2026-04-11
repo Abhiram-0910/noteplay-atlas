@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: noteplay-atlas
+    env: node
+    region: singapore
+    plan: free
+    buildCommand: |
+      npm install --prefix server
+      npm install --prefix client
+      npm run build --prefix client
+    startCommand: node server/src/index.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 4001
+      - key: CLIENT_ORIGIN
+        value: "*"
+      - key: ATLAS_DATASET_DIR
+        value: atlas_datasets_lighter
