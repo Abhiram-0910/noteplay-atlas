@@ -1,0 +1,729 @@
+id,name,category,country,state,district,normalizedName,startingLetter,endingLetter
+district-1,Ashoknagar,district,India,,,ashoknagar,A,R
+district-2,Raisen,district,India,,,raisen,R,N
+district-3,Chhindwara,district,India,,,chhindwara,C,A
+district-4,Betul,district,India,,,betul,B,L
+district-5,Hoshangabad,district,India,,,hoshangabad,H,D
+district-6,Sehore,district,India,,,sehore,S,E
+district-7,Jabalpur,district,India,,,jabalpur,J,R
+district-8,Narsimhapur,district,India,,,narsimhapur,N,R
+district-9,Panna,district,India,,,panna,P,A
+district-10,Ujjain,district,India,,,ujjain,U,N
+district-11,Rewa,district,India,,,rewa,R,A
+district-12,Dindori,district,India,,,dindori,D,I
+district-13,Balaghat,district,India,,,balaghat,B,T
+district-14,Barwani,district,India,,,barwani,B,I
+district-15,Satna,district,India,,,satna,S,A
+district-16,Chhatarpur,district,India,,,chhatarpur,C,R
+district-17,Indore,district,India,,,indore,I,E
+district-18,Ratlam,district,India,,,ratlam,R,M
+district-19,Harda,district,India,,,harda,H,A
+district-20,Sagar,district,India,,,sagar,S,R
+district-21,Neemuch,district,India,,,neemuch,N,H
+district-22,Tikamgarh,district,India,,,tikamgarh,T,H
+district-23,Guna,district,India,,,guna,G,A
+district-24,Dewas,district,India,,,dewas,D,S
+district-25,Mandsaur,district,India,,,mandsaur,M,R
+district-26,Khargone (West Nimar),district,India,,,khargonewestnimar,K,R
+district-27,Sheopur,district,India,,,sheopur,S,R
+district-28,Morena,district,India,,,morena,M,A
+district-29,Bhind,district,India,,,bhind,B,D
+district-30,Jhabua,district,India,,,jhabua,J,A
+district-31,Seoni,district,India,,,seoni,S,I
+district-32,Khandwa (East Nimar),district,India,,,khandwaeastnimar,K,R
+district-33,Umaria,district,India,,,umaria,U,A
+district-34,Gwalior,district,India,,,gwalior,G,R
+district-35,Damoh,district,India,,,damoh,D,H
+district-36,Dhar,district,India,,,dhar,D,R
+district-37,Katni,district,India,,,katni,K,I
+district-38,Sidhi,district,India,,,sidhi,S,I
+district-39,Alirajpur,district,India,,,alirajpur,A,R
+district-40,Singrauli,district,India,,,singrauli,S,I
+district-41,Bhopal,district,India,,,bhopal,B,L
+district-42,Rajgarh,district,India,,,rajgarh,R,H
+district-43,Mandla,district,India,,,mandla,M,A
+district-44,Shajapur,district,India,,,shajapur,S,R
+district-45,Shivpuri,district,India,,,shivpuri,S,I
+district-46,Datia,district,India,,,datia,D,A
+district-47,Burhanpur,district,India,,,burhanpur,B,R
+district-48,Anuppur,district,India,,,anuppur,A,R
+district-49,Shahdol,district,India,,,shahdol,S,L
+district-50,Vidisha,district,India,,,vidisha,V,A
+district-51,Una,district,India,,,una,U,A
+district-52,Solan,district,India,,,solan,S,N
+district-53,Sirmaur,district,India,,,sirmaur,S,R
+district-54,Kinnaur,district,India,,,kinnaur,K,R
+district-55,Kullu,district,India,,,kullu,K,U
+district-56,Chamba,district,India,,,chamba,C,A
+district-57,Shimla,district,India,,,shimla,S,A
+district-58,Bilaspur,district,India,,,bilaspur,B,R
+district-59,Kangra,district,India,,,kangra,K,A
+district-60,Lahul & Spiti,district,India,,,lahulspiti,L,I
+district-61,Mandi,district,India,,,mandi,M,I
+district-62,Hamirpur,district,India,,,hamirpur,H,R
+district-63,DATA NOT AVAILABLE,district,India,,,datanotavailable,D,E
+district-64,Anantnag,district,India,,,anantnag,A,G
+district-65,Baramula,district,India,,,baramula,B,A
+district-66,Kulgam,district,India,,,kulgam,K,M
+district-67,Shupiyan,district,India,,,shupiyan,S,N
+district-68,Reasi,district,India,,,reasi,R,I
+district-69,Rajouri,district,India,,,rajouri,R,I
+district-70,Jammu,district,India,,,jammu,J,U
+district-71,Leh(Ladakh),district,India,,,lehladakh,L,H
+district-72,Srinagar,district,India,,,srinagar,S,R
+district-73,Doda,district,India,,,doda,D,A
+district-74,Pulwama,district,India,,,pulwama,P,A
+district-75,Ramban,district,India,,,ramban,R,N
+district-76,Ganderbal,district,India,,,ganderbal,G,L
+district-77,Udhampur,district,India,,,udhampur,U,R
+district-78,Badgam,district,India,,,badgam,B,M
+district-79,Punch,district,India,,,punch,P,H
+district-80,Kupwara,district,India,,,kupwara,K,A
+district-81,Samba,district,India,,,samba,S,A
+district-82,Bandipore,district,India,,,bandipore,B,E
+district-83,Kathua,district,India,,,kathua,K,A
+district-84,Kargil,district,India,,,kargil,K,L
+district-85,Kishtwar,district,India,,,kishtwar,K,R
+district-86,Daman,district,India,,,daman,D,N
+district-87,Diu,district,India,,,diu,D,U
+district-88,Bhavnagar,district,India,,,bhavnagar,B,R
+district-89,Ahmadabad,district,India,,,ahmadabad,A,D
+district-90,Chhota Udaipur,district,India,,,chhotaudaipur,C,R
+district-91,Batod,district,India,,,batod,B,D
+district-92,Vadodara,district,India,,,vadodara,V,A
+district-93,Aravali,district,India,,,aravali,A,I
+district-94,Sabar Kantha,district,India,,,sabarkantha,S,A
+district-95,Banas Kantha,district,India,,,banaskantha,B,A
+district-96,Surendranagar,district,India,,,surendranagar,S,R
+district-97,Anand,district,India,,,anand,A,D
+district-98,Narmada,district,India,,,narmada,N,A
+district-99,Amreli,district,India,,,amreli,A,I
+district-100,Dohad,district,India,,,dohad,D,D
+district-101,Rajkot,district,India,,,rajkot,R,T
+district-102,Kachchh,district,India,,,kachchh,K,H
+district-103,The Dangs,district,India,,,thedangs,T,S
+district-104,Mahesana,district,India,,,mahesana,M,A
+district-105,Patan,district,India,,,patan,P,N
+district-106,Bharuch,district,India,,,bharuch,B,H
+district-107,Gir Somnath,district,India,,,girsomnath,G,H
+district-108,Junagadh,district,India,,,junagadh,J,H
+district-109,Devbhumi Dwarka,district,India,,,devbhumidwarka,D,A
+district-110,Navsari,district,India,,,navsari,N,I
+district-111,Surat,district,India,,,surat,S,T
+district-112,Jamnagar,district,India,,,jamnagar,J,R
+district-113,Tapi,district,India,,,tapi,T,I
+district-114,Porbandar,district,India,,,porbandar,P,R
+district-115,Valsad,district,India,,,valsad,V,D
+district-116,Gandhinagar,district,India,,,gandhinagar,G,R
+district-117,Mahisagar,district,India,,,mahisagar,M,R
+district-118,Morbi,district,India,,,morbi,M,I
+district-119,Panch Mahals,district,India,,,panchmahals,P,S
+district-120,Kheda,district,India,,,kheda,K,A
+district-121,Dadra & Nagar Haveli,district,India,,,dadranagarhaveli,D,I
+district-122,Prakasam,district,India,,,prakasam,P,M
+district-123,Krishna,district,India,,,krishna,K,A
+district-124,East Godavari,district,India,,,eastgodavari,E,I
+district-125,Visakhapatnam,district,India,,,visakhapatnam,V,M
+district-126,Sri Potti Sriramulu Nellore,district,India,,,sripottisriramulunellore,S,E
+district-127,Chittoor,district,India,,,chittoor,C,R
+district-128,Srikakulam,district,India,,,srikakulam,S,M
+district-129,Kurnool,district,India,,,kurnool,K,L
+district-130,Guntur,district,India,,,guntur,G,R
+district-131,Vizianagaram,district,India,,,vizianagaram,V,M
+district-132,Anantapur,district,India,,,anantapur,A,R
+district-133,West Godavari,district,India,,,westgodavari,W,I
+district-134,Kadapa(YSR),district,India,,,kadapaysr,K,R
+district-135,Jamtara,district,India,,,jamtara,J,A
+district-136,Saraikela-Kharsawan,district,India,,,saraikelakharsawan,S,N
+district-137,Simdega,district,India,,,simdega,S,A
+district-138,Latehar,district,India,,,latehar,L,R
+district-139,Khunti,district,India,,,khunti,K,I
+district-140,Pashchimi Singhbhum,district,India,,,pashchimisinghbhum,P,M
+district-141,Hazaribagh,district,India,,,hazaribagh,H,H
+district-142,Chatra,district,India,,,chatra,C,A
+district-143,Purbi Singhbhum,district,India,,,purbisinghbhum,P,M
+district-144,Kodarma,district,India,,,kodarma,K,A
+district-145,Giridih,district,India,,,giridih,G,H
+district-146,Lohardaga,district,India,,,lohardaga,L,A
+district-147,Sahibganj,district,India,,,sahibganj,S,J
+district-148,Godda,district,India,,,godda,G,A
+district-149,Palamu,district,India,,,palamu,P,U
+district-150,Dhanbad,district,India,,,dhanbad,D,D
+district-151,Dumka,district,India,,,dumka,D,A
+district-152,Bokaro,district,India,,,bokaro,B,O
+district-153,Deoghar,district,India,,,deoghar,D,R
+district-154,Gumla,district,India,,,gumla,G,A
+district-155,Ramgarh,district,India,,,ramgarh,R,H
+district-156,Garhwa,district,India,,,garhwa,G,A
+district-157,Ranchi,district,India,,,ranchi,R,I
+district-158,Pakur,district,India,,,pakur,P,R
+district-159,Arwal,district,India,,,arwal,A,L
+district-160,Bhagalpur,district,India,,,bhagalpur,B,R
+district-161,Purnia,district,India,,,purnia,P,A
+district-162,Madhepura,district,India,,,madhepura,M,A
+district-163,Kishanganj,district,India,,,kishanganj,K,J
+district-164,Gaya,district,India,,,gaya,G,A
+district-165,Banka,district,India,,,banka,B,A
+district-166,Aurangabad,district,India,,,aurangabad,A,D
+district-167,Nawada,district,India,,,nawada,N,A
+district-168,Araria,district,India,,,araria,A,A
+district-169,Pashchim Champaran,district,India,,,pashchimchamparan,P,N
+district-170,Muzaffarpur,district,India,,,muzaffarpur,M,R
+district-171,Saran,district,India,,,saran,S,N
+district-172,Sheikhpura,district,India,,,sheikhpura,S,A
+district-173,Jehanabad,district,India,,,jehanabad,J,D
+district-174,Saharsa,district,India,,,saharsa,S,A
+district-175,Gopalganj,district,India,,,gopalganj,G,J
+district-176,Vaishali,district,India,,,vaishali,V,I
+district-177,Siwan,district,India,,,siwan,S,N
+district-178,Sheohar,district,India,,,sheohar,S,R
+district-179,Buxar,district,India,,,buxar,B,R
+district-180,Madhubani,district,India,,,madhubani,M,I
+district-181,Supaul,district,India,,,supaul,S,L
+district-182,Patna,district,India,,,patna,P,A
+district-183,Bhojpur,district,India,,,bhojpur,B,R
+district-184,Darbhanga,district,India,,,darbhanga,D,A
+district-185,Samastipur,district,India,,,samastipur,S,R
+district-186,Kaimur (Bhabua),district,India,,,kaimurbhabua,K,A
+district-187,Rohtas,district,India,,,rohtas,R,S
+district-188,Khagaria,district,India,,,khagaria,K,A
+district-189,Munger,district,India,,,munger,M,R
+district-190,Sitamarhi,district,India,,,sitamarhi,S,I
+district-191,Purba Champaran,district,India,,,purbachamparan,P,N
+district-192,Lakhisarai,district,India,,,lakhisarai,L,I
+district-193,Jamui,district,India,,,jamui,J,I
+district-194,Begusarai,district,India,,,begusarai,B,I
+district-195,Nalanda,district,India,,,nalanda,N,A
+district-196,Katihar,district,India,,,katihar,K,R
+district-197,Gurgaon,district,India,,,gurgaon,G,N
+district-198,Yamunanagar,district,India,,,yamunanagar,Y,R
+district-199,Palwal,district,India,,,palwal,P,L
+district-200,Panchkula,district,India,,,panchkula,P,A
+district-201,Mewat,district,India,,,mewat,M,T
+district-202,Jhajjar,district,India,,,jhajjar,J,R
+district-203,Bhiwani,district,India,,,bhiwani,B,I
+district-204,Kaithal,district,India,,,kaithal,K,L
+district-205,Sonipat,district,India,,,sonipat,S,T
+district-206,Karnal,district,India,,,karnal,K,L
+district-207,Kurukshetra,district,India,,,kurukshetra,K,A
+district-208,Jind,district,India,,,jind,J,D
+district-209,Panipat,district,India,,,panipat,P,T
+district-210,Mahendragarh,district,India,,,mahendragarh,M,H
+district-211,Fatehabad,district,India,,,fatehabad,F,D
+district-212,Faridabad,district,India,,,faridabad,F,D
+district-213,Sirsa,district,India,,,sirsa,S,A
+district-214,Hisar,district,India,,,hisar,H,R
+district-215,Rewari,district,India,,,rewari,R,I
+district-216,Rohtak,district,India,,,rohtak,R,K
+district-217,Ambala,district,India,,,ambala,A,A
+district-218,Chandigarh,district,India,,,chandigarh,C,H
+district-219,North Goa,district,India,,,northgoa,N,A
+district-220,South Goa,district,India,,,southgoa,S,A
+district-221,North & Middle Andaman,district,India,,,northmiddleandaman,N,N
+district-222,South Andaman,district,India,,,southandaman,S,N
+district-223,Nicobars,district,India,,,nicobars,N,S
+district-224,Lohit,district,India,,,lohit,L,T
+district-225,West Siang,district,India,,,westsiang,W,G
+district-226,Upper Subansiri,district,India,,,uppersubansiri,U,I
+district-227,Changlang,district,India,,,changlang,C,G
+district-228,Longding,district,India,,,longding,L,G
+district-229,Lower Subansiri,district,India,,,lowersubansiri,L,I
+district-230,East Kameng,district,India,,,eastkameng,E,G
+district-231,Upper Siang,district,India,,,uppersiang,U,G
+district-232,Anjaw,district,India,,,anjaw,A,W
+district-233,Siang,district,India,,,siang,S,G
+district-234,Dibang Valley,district,India,,,dibangvalley,D,Y
+district-235,Kurung Kumey,district,India,,,kurungkumey,K,Y
+district-236,West Kameng,district,India,,,westkameng,W,G
+district-237,Lower Dibang Valley,district,India,,,lowerdibangvalley,L,Y
+district-238,Tawang,district,India,,,tawang,T,G
+district-239,Papum Pare,district,India,,,papumpare,P,E
+district-240,Goalpara,district,India,,,goalpara,G,A
+district-241,Nalbari,district,India,,,nalbari,N,I
+district-242,Dhubri,district,India,,,dhubri,D,I
+district-243,Sivasagar,district,India,,,sivasagar,S,R
+district-244,Karimganj,district,India,,,karimganj,K,J
+district-245,Tinsukia,district,India,,,tinsukia,T,A
+district-246,Hailakandi,district,India,,,hailakandi,H,I
+district-247,Chirang,district,India,,,chirang,C,G
+district-248,Dhemaji,district,India,,,dhemaji,D,I
+district-249,Morigaon,district,India,,,morigaon,M,N
+district-250,Karbi Anglong East,district,India,,,karbianglongeast,K,T
+district-251,Lakhimpur,district,India,,,lakhimpur,L,R
+district-252,Bongaigaon,district,India,,,bongaigaon,B,N
+district-253,Baksa,district,India,,,baksa,B,A
+district-254,Nagaon,district,India,,,nagaon,N,N
+district-255,Cachar,district,India,,,cachar,C,R
+district-256,Darrang,district,India,,,darrang,D,G
+district-257,Kamrup,district,India,,,kamrup,K,P
+district-258,Dibrugarh,district,India,,,dibrugarh,D,H
+district-259,Barpeta,district,India,,,barpeta,B,A
+district-260,Sonitpur,district,India,,,sonitpur,S,R
+district-261,Udalguri,district,India,,,udalguri,U,I
+district-262,Golaghat,district,India,,,golaghat,G,T
+district-263,Kamrup Metropolitan,district,India,,,kamrupmetropolitan,K,N
+district-264,Dima Hasao,district,India,,,dimahasao,D,O
+district-265,Kokrajhar,district,India,,,kokrajhar,K,R
+district-266,Jorhat,district,India,,,jorhat,J,T
+district-267,Yanam,district,India,,,yanam,Y,M
+district-268,Karaikal,district,India,,,karaikal,K,L
+district-269,Puducherry,district,India,,,puducherry,P,Y
+district-270,Mahe,district,India,,,mahe,M,E
+district-271,Lunglei,district,India,,,lunglei,L,I
+district-272,Kolasib,district,India,,,kolasib,K,B
+district-273,Lawngtlai,district,India,,,lawngtlai,L,I
+district-274,Saiha,district,India,,,saiha,S,A
+district-275,Champhai,district,India,,,champhai,C,I
+district-276,Serchhip,district,India,,,serchhip,S,P
+district-277,Aizawl,district,India,,,aizawl,A,L
+district-278,Mamit,district,India,,,mamit,M,T
+district-279,Chandel,district,India,,,chandel,C,L
+district-280,Tamenglong,district,India,,,tamenglong,T,G
+district-281,Ukhrul,district,India,,,ukhrul,U,L
+district-282,Bishnupur,district,India,,,bishnupur,B,R
+district-283,Churachandpur,district,India,,,churachandpur,C,R
+district-284,Thoubal,district,India,,,thoubal,T,L
+district-285,Imphal East,district,India,,,imphaleast,I,T
+district-286,Kangpokpi,district,India,,,kangpokpi,K,I
+district-287,Imphal West,district,India,,,imphalwest,I,T
+district-288,Mon,district,India,,,mon,M,N
+district-289,Tuensang,district,India,,,tuensang,T,G
+district-290,Mokokchung,district,India,,,mokokchung,M,G
+district-291,Longleng,district,India,,,longleng,L,G
+district-292,Phek,district,India,,,phek,P,K
+district-293,Kohima,district,India,,,kohima,K,A
+district-294,Wokha,district,India,,,wokha,W,A
+district-295,Zunheboto,district,India,,,zunheboto,Z,O
+district-296,Kiphire,district,India,,,kiphire,K,E
+district-297,Dimapur,district,India,,,dimapur,D,R
+district-298,Peren,district,India,,,peren,P,N
+district-299,Khowai,district,India,,,khowai,K,I
+district-300,Sipahijula,district,India,,,sipahijula,S,A
+district-301,West Tripura,district,India,,,westtripura,W,A
+district-302,Dhalai,district,India,,,dhalai,D,I
+district-303,Unokoti,district,India,,,unokoti,U,I
+district-304,North Tripura,district,India,,,northtripura,N,A
+district-305,Gomati,district,India,,,gomati,G,I
+district-306,South Tripura,district,India,,,southtripura,S,A
+district-307,South Garo Hills,district,India,,,southgarohills,S,S
+district-308,Ribhoi,district,India,,,ribhoi,R,I
+district-309,East Khasi Hills,district,India,,,eastkhasihills,E,S
+district-310,West Khasi Hills,district,India,,,westkhasihills,W,S
+district-311,South West Khasi Hills,district,India,,,southwestkhasihills,S,S
+district-312,West Garo Hills,district,India,,,westgarohills,W,S
+district-313,South West Garo Hills,district,India,,,southwestgarohills,S,S
+district-314,East Jaintia Hills,district,India,,,eastjaintiahills,E,S
+district-315,West Jaintia Hills,district,India,,,westjaintiahills,W,S
+district-316,East Garo Hills,district,India,,,eastgarohills,E,S
+district-317,North Garo Hills,district,India,,,northgarohills,N,S
+district-318,Bemetra,district,India,,,bemetra,B,A
+district-319,Bastar,district,India,,,bastar,B,R
+district-320,Mungeli,district,India,,,mungeli,M,I
+district-322,Gariaband,district,India,,,gariaband,G,D
+district-323,Kabeerdham,district,India,,,kabeerdham,K,M
+district-324,Sukma,district,India,,,sukma,S,A
+district-325,Uttar Bastar Kanker,district,India,,,uttarbastarkanker,U,R
+district-326,Dakshin Bastar Dantewada,district,India,,,dakshinbastardantewada,D,A
+district-327,Surguja,district,India,,,surguja,S,A
+district-328,Balrampur,district,India,,,balrampur,B,R
+district-329,Kondagaon,district,India,,,kondagaon,K,N
+district-330,Narayanpur,district,India,,,narayanpur,N,R
+district-331,Durg,district,India,,,durg,D,G
+district-332,Surajpur,district,India,,,surajpur,S,R
+district-333,Bijapur,district,India,,,bijapur,B,R
+district-334,Raipur,district,India,,,raipur,R,R
+district-335,Baloda Bazar,district,India,,,balodabazar,B,R
+district-336,Balod,district,India,,,balod,B,D
+district-337,Koriya,district,India,,,koriya,K,A
+district-338,Dhamtari,district,India,,,dhamtari,D,I
+district-339,Korba,district,India,,,korba,K,A
+district-340,Raigarh,district,India,,,raigarh,R,H
+district-341,Jashpur,district,India,,,jashpur,J,R
+district-342,Mahasamund,district,India,,,mahasamund,M,D
+district-343,Janjgir-Champa,district,India,,,janjgirchampa,J,A
+district-344,Rajnandgaon,district,India,,,rajnandgaon,R,N
+district-345,Nainital,district,India,,,nainital,N,L
+district-346,Dehradun,district,India,,,dehradun,D,N
+district-347,Almora,district,India,,,almora,A,A
+district-348,Champawat,district,India,,,champawat,C,T
+district-349,Uttarkashi,district,India,,,uttarkashi,U,I
+district-350,Garhwal,district,India,,,garhwal,G,L
+district-351,Hardwar,district,India,,,hardwar,H,R
+district-352,Rudraprayag,district,India,,,rudraprayag,R,G
+district-353,Tehri Garhwal,district,India,,,tehrigarhwal,T,L
+district-354,Bageshwar,district,India,,,bageshwar,B,R
+district-355,Pithoragarh,district,India,,,pithoragarh,P,H
+district-356,Chamoli,district,India,,,chamoli,C,I
+district-357,Udham Singh Nagar,district,India,,,udhamsinghnagar,U,R
+district-358,Kannur,district,India,,,kannur,K,R
+district-359,Pathanamthitta,district,India,,,pathanamthitta,P,A
+district-360,Alappuzha,district,India,,,alappuzha,A,A
+district-361,Ernakulam,district,India,,,ernakulam,E,M
+district-362,Kollam,district,India,,,kollam,K,M
+district-363,Kasaragod,district,India,,,kasaragod,K,D
+district-364,Idukki,district,India,,,idukki,I,I
+district-365,Kozhikode,district,India,,,kozhikode,K,E
+district-366,Kottayam,district,India,,,kottayam,K,M
+district-367,Thrissur,district,India,,,thrissur,T,R
+district-368,Palakkad,district,India,,,palakkad,P,D
+district-369,Thiruvananthapuram,district,India,,,thiruvananthapuram,T,M
+district-370,Malappuram,district,India,,,malappuram,M,M
+district-371,Wayanad,district,India,,,wayanad,W,D
+district-372,Lakshadweep,district,India,,,lakshadweep,L,P
+district-373,North District,district,India,,,northdistrict,N,T
+district-374,South District,district,India,,,southdistrict,S,T
+district-375,West District,district,India,,,westdistrict,W,T
+district-376,East District,district,India,,,eastdistrict,E,T
+district-377,Nadia,district,India,,,nadia,N,A
+district-378,Dakshin Dinajpur,district,India,,,dakshindinajpur,D,R
+district-379,Murshidabad,district,India,,,murshidabad,M,D
+district-380,Kolkata,district,India,,,kolkata,K,A
+district-381,Maldah,district,India,,,maldah,M,H
+district-382,South Twenty Four Parganas,district,India,,,southtwentyfourparganas,S,S
+district-383,Darjiling,district,India,,,darjiling,D,G
+district-384,Jalpaiguri,district,India,,,jalpaiguri,J,I
+district-385,Uttar Dinajpur,district,India,,,uttardinajpur,U,R
+district-386,Purba Medinipur,district,India,,,purbamedinipur,P,R
+district-387,Haora,district,India,,,haora,H,A
+district-388,North Twenty Four Parganas,district,India,,,northtwentyfourparganas,N,S
+district-389,Birbhum,district,India,,,birbhum,B,M
+district-390,Barddhaman,district,India,,,barddhaman,B,N
+district-391,Bankura,district,India,,,bankura,B,A
+district-392,Puruliya,district,India,,,puruliya,P,A
+district-393,Koch Bihar,district,India,,,kochbihar,K,R
+district-394,Paschim Medinipur,district,India,,,paschimmedinipur,P,R
+district-395,Hugli,district,India,,,hugli,H,I
+district-396,Pathankot,district,India,,,pathankot,P,T
+district-397,Gurdaspur,district,India,,,gurdaspur,G,R
+district-398,Patiala,district,India,,,patiala,P,A
+district-399,Tarn Taran,district,India,,,tarntaran,T,N
+district-400,Kapurthala,district,India,,,kapurthala,K,A
+district-401,Fatehgarh Sahib,district,India,,,fatehgarhsahib,F,B
+district-402,Sangrur,district,India,,,sangrur,S,R
+district-403,Mansa,district,India,,,mansa,M,A
+district-404,Amritsar,district,India,,,amritsar,A,R
+district-405,Faridkot,district,India,,,faridkot,F,T
+district-406,Ludhiana,district,India,,,ludhiana,L,A
+district-407,Bathinda,district,India,,,bathinda,B,A
+district-408,Jalandhar,district,India,,,jalandhar,J,R
+district-409,Muktsar,district,India,,,muktsar,M,R
+district-410,Moga,district,India,,,moga,M,A
+district-411,Hoshiarpur,district,India,,,hoshiarpur,H,R
+district-412,Rupnagar,district,India,,,rupnagar,R,R
+district-413,Firozpur,district,India,,,firozpur,F,R
+district-414,Fazilka,district,India,,,fazilka,F,A
+district-415,Barnala,district,India,,,barnala,B,A
+district-416,Sahibzada Ajit Singh Nagar,district,India,,,sahibzadaajitsinghnagar,S,R
+district-417,Shahid Bhagat Singh Nagar,district,India,,,shahidbhagatsinghnagar,S,R
+district-418,Mandya,district,India,,,mandya,M,A
+district-419,Mysore,district,India,,,mysore,M,E
+district-420,Chikkaballapura,district,India,,,chikkaballapura,C,A
+district-421,Yadgir,district,India,,,yadgir,Y,R
+district-422,Chikmagalur,district,India,,,chikmagalur,C,R
+district-423,Chitradurga,district,India,,,chitradurga,C,A
+district-424,Haveri,district,India,,,haveri,H,I
+district-425,Dakshina Kannada,district,India,,,dakshinakannada,D,A
+district-426,Raichur,district,India,,,raichur,R,R
+district-427,Kolar,district,India,,,kolar,K,R
+district-429,Uttara Kannada,district,India,,,uttarakannada,U,A
+district-430,Davanagere,district,India,,,davanagere,D,E
+district-431,Dharwad,district,India,,,dharwad,D,D
+district-432,Bidar,district,India,,,bidar,B,R
+district-433,Chamarajanagar,district,India,,,chamarajanagar,C,R
+district-434,Gulbarga,district,India,,,gulbarga,G,A
+district-435,Gadag,district,India,,,gadag,G,G
+district-436,Udupi,district,India,,,udupi,U,I
+district-437,Bagalkot,district,India,,,bagalkot,B,T
+district-438,Hassan,district,India,,,hassan,H,N
+district-439,Shimoga,district,India,,,shimoga,S,A
+district-440,Bellary,district,India,,,bellary,B,Y
+district-441,Kodagu,district,India,,,kodagu,K,U
+district-442,Bangalore Rural,district,India,,,bangalorerural,B,L
+district-443,Tumkur,district,India,,,tumkur,T,R
+district-444,Belgaum,district,India,,,belgaum,B,M
+district-445,Koppal,district,India,,,koppal,K,L
+district-446,Bangalore,district,India,,,bangalore,B,E
+district-447,Ramanagara,district,India,,,ramanagara,R,A
+district-448,Washim,district,India,,,washim,W,M
+district-449,Ahmadnagar,district,India,,,ahmadnagar,A,R
+district-450,Latur,district,India,,,latur,L,R
+district-451,Solapur,district,India,,,solapur,S,R
+district-452,Nashik,district,India,,,nashik,N,K
+district-453,Osmanabad,district,India,,,osmanabad,O,D
+district-454,Sindhudurg,district,India,,,sindhudurg,S,G
+district-455,Kolhapur,district,India,,,kolhapur,K,R
+district-456,Chandrapur,district,India,,,chandrapur,C,R
+district-457,Akola,district,India,,,akola,A,A
+district-458,Parbhani,district,India,,,parbhani,P,I
+district-459,Yavatmal,district,India,,,yavatmal,Y,L
+district-460,Nanded,district,India,,,nanded,N,D
+district-461,Dhule,district,India,,,dhule,D,E
+district-462,Satara,district,India,,,satara,S,A
+district-463,Sangli,district,India,,,sangli,S,I
+district-464,Hingoli,district,India,,,hingoli,H,I
+district-465,Pune,district,India,,,pune,P,E
+district-466,Gondiya,district,India,,,gondiya,G,A
+district-467,Amravati,district,India,,,amravati,A,I
+district-468,Nandurbar,district,India,,,nandurbar,N,R
+district-469,Ratnagiri,district,India,,,ratnagiri,R,I
+district-470,Wardha,district,India,,,wardha,W,A
+district-472,Buldana,district,India,,,buldana,B,A
+district-473,Gadchiroli,district,India,,,gadchiroli,G,I
+district-474,Jalgaon,district,India,,,jalgaon,J,N
+district-476,Bhandara,district,India,,,bhandara,B,A
+district-477,Bid,district,India,,,bid,B,D
+district-478,Jalna,district,India,,,jalna,J,A
+district-479,Thane,district,India,,,thane,T,E
+district-480,Palghar,district,India,,,palghar,P,R
+district-481,Mumbai,district,India,,,mumbai,M,I
+district-482,Mumbai Suburban,district,India,,,mumbaisuburban,M,N
+district-483,Nagpur,district,India,,,nagpur,N,R
+district-484,Subarnapur,district,India,,,subarnapur,S,R
+district-485,Puri,district,India,,,puri,P,I
+district-486,Anugul,district,India,,,anugul,A,L
+district-487,Debagarh,district,India,,,debagarh,D,H
+district-488,Koraput,district,India,,,koraput,K,T
+district-489,Nabarangapur,district,India,,,nabarangapur,N,R
+district-490,Bargarh,district,India,,,bargarh,B,H
+district-491,Jagatsinghapur,district,India,,,jagatsinghapur,J,R
+district-492,Kandhamal,district,India,,,kandhamal,K,L
+district-493,Khordha,district,India,,,khordha,K,A
+district-494,Mayurbhanj,district,India,,,mayurbhanj,M,J
+district-495,Malkangiri,district,India,,,malkangiri,M,I
+district-496,Baleshwar,district,India,,,baleshwar,B,R
+district-497,Sambalpur,district,India,,,sambalpur,S,R
+district-498,Gajapati,district,India,,,gajapati,G,I
+district-499,Dhenkanal,district,India,,,dhenkanal,D,L
+district-500,Nayagarh,district,India,,,nayagarh,N,H
+district-501,Cuttack,district,India,,,cuttack,C,K
+district-502,Jajapur,district,India,,,jajapur,J,R
+district-503,Kalahandi,district,India,,,kalahandi,K,I
+district-504,Baudh,district,India,,,baudh,B,H
+district-505,Kendrapara,district,India,,,kendrapara,K,A
+district-506,Kendujhar,district,India,,,kendujhar,K,R
+district-507,Ganjam,district,India,,,ganjam,G,M
+district-508,Sundargarh,district,India,,,sundargarh,S,H
+district-509,Bhadrak,district,India,,,bhadrak,B,K
+district-510,Nuapada,district,India,,,nuapada,N,A
+district-511,Jharsuguda,district,India,,,jharsuguda,J,A
+district-512,Rayagada,district,India,,,rayagada,R,A
+district-513,Balangir,district,India,,,balangir,B,R
+district-514,Jhunjhunun,district,India,,,jhunjhunun,J,N
+district-515,Jaisalmer,district,India,,,jaisalmer,J,R
+district-516,Sikar,district,India,,,sikar,S,R
+district-517,Hanumangarh,district,India,,,hanumangarh,H,H
+district-518,Nagaur,district,India,,,nagaur,N,R
+district-519,Barmer,district,India,,,barmer,B,R
+district-520,Ganganagar,district,India,,,ganganagar,G,R
+district-521,Jodhpur,district,India,,,jodhpur,J,R
+district-522,Churu,district,India,,,churu,C,U
+district-523,Bikaner,district,India,,,bikaner,B,R
+district-524,Pratapgarh,district,India,,,pratapgarh,P,H
+district-525,Bhilwara,district,India,,,bhilwara,B,A
+district-526,Tonk,district,India,,,tonk,T,K
+district-527,Bundi,district,India,,,bundi,B,I
+district-528,Jaipur,district,India,,,jaipur,J,R
+district-529,Kota,district,India,,,kota,K,A
+district-530,Pali,district,India,,,pali,P,I
+district-531,Rajsamand,district,India,,,rajsamand,R,D
+district-532,Ajmer,district,India,,,ajmer,A,R
+district-533,Bharatpur,district,India,,,bharatpur,B,R
+district-534,Dungarpur,district,India,,,dungarpur,D,R
+district-535,Chittaurgarh,district,India,,,chittaurgarh,C,H
+district-536,Udaipur,district,India,,,udaipur,U,R
+district-537,Jalor,district,India,,,jalor,J,R
+district-538,Dausa,district,India,,,dausa,D,A
+district-539,Sirohi,district,India,,,sirohi,S,I
+district-540,Ariyalur,district,India,,,ariyalur,A,R
+district-541,Sivaganga,district,India,,,sivaganga,S,A
+district-542,Thanjavur,district,India,,,thanjavur,T,R
+district-543,Tiruvannamalai,district,India,,,tiruvannamalai,T,I
+district-544,Ramanathapuram,district,India,,,ramanathapuram,R,M
+district-545,Tirunelveli,district,India,,,tirunelveli,T,I
+district-546,Virudhunagar,district,India,,,virudhunagar,V,R
+district-547,Thiruvarur,district,India,,,thiruvarur,T,R
+district-548,Thiruvallur,district,India,,,thiruvallur,T,R
+district-549,Tiruchirappalli,district,India,,,tiruchirappalli,T,I
+district-550,Tiruppur,district,India,,,tiruppur,T,R
+district-551,Theni,district,India,,,theni,T,I
+district-552,Salem,district,India,,,salem,S,M
+district-553,Madurai,district,India,,,madurai,M,I
+district-554,Perambalur,district,India,,,perambalur,P,R
+district-555,Dindigul,district,India,,,dindigul,D,L
+district-556,Karur,district,India,,,karur,K,R
+district-557,Dharmapuri,district,India,,,dharmapuri,D,I
+district-558,Namakkal,district,India,,,namakkal,N,L
+district-559,Moradabad,district,India,,,moradabad,M,D
+district-560,Sambhal,district,India,,,sambhal,S,L
+district-561,Budaun,district,India,,,budaun,B,N
+district-562,Kanshiram Nagar,district,India,,,kanshiramnagar,K,R
+district-563,Bahraich,district,India,,,bahraich,B,H
+district-564,Hapur,district,India,,,hapur,H,R
+district-565,Sitapur,district,India,,,sitapur,S,R
+district-566,Samli,district,India,,,samli,S,I
+district-567,Shrawasti,district,India,,,shrawasti,S,I
+district-568,Meerut,district,India,,,meerut,M,T
+district-569,Aligarh,district,India,,,aligarh,A,H
+district-570,Bulandshahr,district,India,,,bulandshahr,B,R
+district-571,Bijnor,district,India,,,bijnor,B,R
+district-572,Baghpat,district,India,,,baghpat,B,T
+district-573,Kheri,district,India,,,kheri,K,I
+district-574,Rampur,district,India,,,rampur,R,R
+district-575,Bareilly,district,India,,,bareilly,B,Y
+district-576,Mathura,district,India,,,mathura,M,A
+district-577,Etah,district,India,,,etah,E,H
+district-578,Hardoi,district,India,,,hardoi,H,I
+district-580,Mahamaya Nagar,district,India,,,mahamayanagar,M,R
+district-581,Shahjahanpur,district,India,,,shahjahanpur,S,R
+district-582,Farrukhabad,district,India,,,farrukhabad,F,D
+district-583,Kannauj,district,India,,,kannauj,K,J
+district-584,Pilibhit,district,India,,,pilibhit,P,T
+district-585,Mainpuri,district,India,,,mainpuri,M,I
+district-586,Jyotiba Phule Nagar,district,India,,,jyotibaphulenagar,J,R
+district-587,Firozabad,district,India,,,firozabad,F,D
+district-588,Sultanpur,district,India,,,sultanpur,S,R
+district-589,Chitrakoot,district,India,,,chitrakoot,C,T
+district-590,Basti,district,India,,,basti,B,I
+district-591,Gorakhpur,district,India,,,gorakhpur,G,R
+district-592,Lucknow,district,India,,,lucknow,L,W
+district-593,Azamgarh,district,India,,,azamgarh,A,H
+district-594,Faizabad,district,India,,,faizabad,F,D
+district-595,Ambedkar Nagar,district,India,,,ambedkarnagar,A,R
+district-596,Ballia,district,India,,,ballia,B,A
+district-597,Kanpur Nagar,district,India,,,kanpurnagar,K,R
+district-598,Sant Ravidas Nagar (Bhadohi),district,India,,,santravidasnagarbhadohi,S,I
+district-599,Siddharthnagar,district,India,,,siddharthnagar,S,R
+district-600,Auraiya,district,India,,,auraiya,A,A
+district-601,Sant Kabir Nagar,district,India,,,santkabirnagar,S,R
+district-602,Kaushambi,district,India,,,kaushambi,K,I
+district-603,Jalaun,district,India,,,jalaun,J,N
+district-604,Varanasi,district,India,,,varanasi,V,I
+district-607,Gonda,district,India,,,gonda,G,A
+district-608,Kanpur Dehat,district,India,,,kanpurdehat,K,T
+district-609,Jaunpur,district,India,,,jaunpur,J,R
+district-610,Bara Banki,district,India,,,barabanki,B,I
+district-611,Mahoba,district,India,,,mahoba,M,A
+district-612,Mahrajganj,district,India,,,mahrajganj,M,J
+district-613,Mirzapur,district,India,,,mirzapur,M,R
+district-614,Kushinagar,district,India,,,kushinagar,K,R
+district-615,Deoria,district,India,,,deoria,D,A
+district-616,Unnao,district,India,,,unnao,U,O
+district-617,Fatehpur,district,India,,,fatehpur,F,R
+district-618,Mau,district,India,,,mau,M,U
+district-619,Rae Bareli,district,India,,,raebareli,R,I
+district-620,Amethi,district,India,,,amethi,A,I
+district-621,Ghaziabad,district,India,,,ghaziabad,G,D
+district-622,Muzaffarnagar,district,India,,,muzaffarnagar,M,R
+district-623,Gautam Buddha Nagar,district,India,,,gautambuddhanagar,G,R
+district-624,Saharanpur,district,India,,,saharanpur,S,R
+district-625,Etawah,district,India,,,etawah,E,H
+district-626,Agra,district,India,,,agra,A,A
+district-627,Cuddalore,district,India,,,cuddalore,C,E
+district-628,Pudukkottai,district,India,,,pudukkottai,P,I
+district-629,Vellore,district,India,,,vellore,V,E
+district-630,Chennai,district,India,,,chennai,C,I
+district-631,Nagapattinam,district,India,,,nagapattinam,N,M
+district-632,Viluppuram,district,India,,,viluppuram,V,M
+district-633,Kancheepuram,district,India,,,kancheepuram,K,M
+district-634,Kanniyakumari,district,India,,,kanniyakumari,K,I
+district-635,Thoothukkudi,district,India,,,thoothukkudi,T,I
+district-636,Allahabad,district,India,,,allahabad,A,D
+district-637,Chandauli,district,India,,,chandauli,C,I
+district-638,Jhansi,district,India,,,jhansi,J,I
+district-639,Banda,district,India,,,banda,B,A
+district-640,Sonbhadra,district,India,,,sonbhadra,S,A
+district-641,Lalitpur,district,India,,,lalitpur,L,R
+district-642,Ghazipur,district,India,,,ghazipur,G,R
+district-643,Krishnagiri,district,India,,,krishnagiri,K,I
+district-644,Erode,district,India,,,erode,E,E
+district-645,Coimbatore,district,India,,,coimbatore,C,E
+district-646,The Nilgiris,district,India,,,thenilgiris,T,S
+district-647,Jhalawar,district,India,,,jhalawar,J,R
+district-648,Alwar,district,India,,,alwar,A,R
+district-649,Baran,district,India,,,baran,B,N
+district-650,Dhaulpur,district,India,,,dhaulpur,D,R
+district-651,Sawai Madhopur,district,India,,,sawaimadhopur,S,R
+district-652,Banswara,district,India,,,banswara,B,A
+district-653,Karauli,district,India,,,karauli,K,I
+district-654,Jangaon,district,India,,,jangaon,J,N
+district-655,Bhadradri,district,India,,,bhadradri,B,I
+district-656,Hydrabad,district,India,,,hydrabad,H,D
+district-657,Mancherial,district,India,,,mancherial,M,L
+district-658,Karimnagar,district,India,,,karimnagar,K,R
+district-659,Nizamabad,district,India,,,nizamabad,N,D
+district-660,Medak,district,India,,,medak,M,K
+district-661,Rangareddy,district,India,,,rangareddy,R,Y
+district-662,Nalgonda,district,India,,,nalgonda,N,A
+district-663,Nagarkurnool,district,India,,,nagarkurnool,N,L
+district-664,Adilabad,district,India,,,adilabad,A,D
+district-665,Komaram Bheem,district,India,,,komarambheem,K,M
+district-666,Nirmal,district,India,,,nirmal,N,L
+district-667,Kamareddy,district,India,,,kamareddy,K,Y
+district-668,Jagtial,district,India,,,jagtial,J,L
+district-669,Jayashankar,district,India,,,jayashankar,J,R
+district-670,Peddapalli,district,India,,,peddapalli,P,I
+district-671,Rajanna Sircilla,district,India,,,rajannasircilla,R,A
+district-672,Sangareddy,district,India,,,sangareddy,S,Y
+district-673,Siddipet,district,India,,,siddipet,S,T
+district-674,Khammam,district,India,,,khammam,K,M
+district-675,Mahabubabad,district,India,,,mahabubabad,M,D
+district-676,Warangal (R),district,India,,,warangalr,W,R
+district-677,Warangal (U),district,India,,,warangalu,W,U
+district-678,Suryapet,district,India,,,suryapet,S,T
+district-679,Yadadri Bhongiri,district,India,,,yadadribhongiri,Y,I
+district-680,Medchal,district,India,,,medchal,M,L
+district-681,Vikarabad,district,India,,,vikarabad,V,D
+district-682,Jogulamba,district,India,,,jogulamba,J,A
+district-683,Wanaparthy,district,India,,,wanaparthy,W,Y
+district-684,Mahabubnagar,district,India,,,mahabubnagar,M,R
+district-685,Tirap,district,India,,,tirap,T,P
+district-686,Namsai,district,India,,,namsai,N,I
+district-687,East Siang,district,India,,,eastsiang,E,G
+district-688,Kra Daadi,district,India,,,kradaadi,K,I
+district-689,Charaideo,district,India,,,charaideo,C,O
+district-690,Majuli,district,India,,,majuli,M,I
+district-691,Biswanath,district,India,,,biswanath,B,H
+district-692,Hojai,district,India,,,hojai,H,I
+district-693,Karbi Anglong West,district,India,,,karbianglongwest,K,T
+district-694,South Salmara-Mankachar,district,India,,,southsalmaramankachar,S,R
+district-695,Agar,district,India,,,agar,A,R
+district-696,Pherzawl,district,India,,,pherzawl,P,L
+district-697,Noney,district,India,,,noney,N,Y
+district-698,Tengnoupal,district,India,,,tengnoupal,T,L
+district-699,Kamjong,district,India,,,kamjong,K,G
+district-700,Senapati,district,India,,,senapati,S,I
+district-701,Kakching,district,India,,,kakching,K,G
+district-702,Jiribam,district,India,,,jiribam,J,M
+district-703,North West,district,India,,,northwest,N,T
+district-704,New Delhi,district,India,,,newdelhi,N,I
+district-705,East,district,India,,,east,E,T
+district-706,South West,district,India,,,southwest,S,T
+district-707,West,district,India,,,west,W,T
+district-708,South,district,India,,,south,S,H
+district-709,North,district,India,,,north,N,H
+district-710,North East,district,India,,,northeast,N,T
+district-711,South East,district,India,,,southeast,S,T
+district-712,Central,district,India,,,central,C,L
+district-713,Shahdara,district,India,,,shahdara,S,A
+district-714,Alipurduar,district,India,,,alipurduar,A,R
+district-715,Jhargram,district,India,,,jhargram,J,M
+district-716,Paschim Barddhaman,district,India,,,paschimbarddhaman,P,N
+district-717,Kalimpong,district,India,,,kalimpong,K,G
+district-718,Narayanpet,district,India,,,narayanpet,N,T
+district-719,Mulugu,district,India,,,mulugu,M,U
+district-720,Niwari,district,India,,,niwari,N,I
+district-721,Pakke Kessang,district,India,,,pakkekessang,P,G
+district-722,Kamle,district,India,,,kamle,K,E
+district-723,Shi Yomi,district,India,,,shiyomi,S,I
+district-724,Leparada,district,India,,,leparada,L,A
+district-725,Lower Siang,district,India,,,lowersiang,L,G
+district-726,Hnahthial,district,India,,,hnahthial,H,L
+district-727,Saitual,district,India,,,saitual,S,L
+district-728,Khawzawl,district,India,,,khawzawl,K,L
+district-729,Tirupathur,district,India,,,tirupathur,T,R
+district-730,Ranipet,district,India,,,ranipet,R,T
+district-731,Chengalputtu,district,India,,,chengalputtu,C,U
+district-732,Kallakurichi,district,India,,,kallakurichi,K,I
+district-733,Mayiladuthurai,district,India,,,mayiladuthurai,M,I
+district-734,Tenkasi,district,India,,,tenkasi,T,I
+district-735,Gaurella Pendra Marwahi,district,India,,,gaurellapendramarwahi,G,I
