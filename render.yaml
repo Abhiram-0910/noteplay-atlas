@@ -6,7 +6,7 @@ services:
     plan: free
     buildCommand: |
       npm install --prefix server
-      npm install --prefix client
+      npm install --prefix client --legacy-peer-deps
       npm run build --prefix client
     startCommand: node server/src/index.js
     healthCheckPath: /api/health
